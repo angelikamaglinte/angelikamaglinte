@@ -2,21 +2,35 @@
 
 ## 💼 Full-Stack Software Developer | Calgary, AB
 
-I'm a passionate developer with 5+ years of experience building scalable applications using **Java Spring Boot** for backend and **React TypeScript** for frontend. I love working across the full stack—from database design to responsive UIs.
+I'm a passionate Full-Stack Developer with 5+ years of experience building scalable web and mobile applications. I work with:
+
+- **Backend:** Java Spring Boot, Hibernate, Node.js, Express.js, Python, RESTful APIs, GraphQL
+- **Frontend:** React, TypeScript, Next.js, Vue.js, Angular, HTML5, CSS3
+- **Mobile:** Android (Java/Kotlin), React Native, Progressive Web Apps (PWA)
+- **CMS & Platforms:** WordPress, WooCommerce, Custom Theme Development
+- **Databases:** PostgreSQL, MySQL, MongoDB, Oracle, Supabase, Firebase, Redis
+- **Cloud & DevOps:** AWS (EC2, S3, Lambda), Azure, Docker, Kubernetes, CI/CD, GitHub Actions
+- **Testing:** JUnit, Mockito, Jest, Cypress
+- **Architecture:** Microservices, RESTful APIs, System Design, Authentication (JWT, OAuth)
+
+I love working across the full stack—from architecting backend systems and designing databases to building responsive web interfaces, WordPress sites, and native mobile applications.
 
 ### 🚀 About Me:
 
 - 🎓 Diploma in Software Development from Bow Valley College (2025)
+- 🎓 Bachelor of Science in Mathematics, Major in Computer Science from Bulacan State University (2019)
 - 💻 Former Software Analyst/Engineer at **Accenture** (4+ years)
-- 🌱 Currently deepening my expertise in microservices architecture and cloud deployment
+- 🌱 Currently deepening my expertise in AI/ML integration
 - 📍 Based in Calgary, AB - Open to full-time opportunities
 - ⚡ Fun fact: I delivered 50+ projects with 98% client satisfaction rate
 
-### 🔧 What I'm Up To
+### 🚀 What I'm Up To
 
-- 🏗️ Building full-stack appointment management system with Java Spring Boot + React TypeScript
-- 📚 Exploring advanced Spring Boot patterns and microservices
-- 🎯 Contributing to open-source projects
+- ✍️ Technical writer and contributor at **Design Systems Collective** on Medium
+- 📜 Pursuing Microsoft Azure certification and exploring AI integration in web applications
+- 💰 Building fintech and e-commerce solutions with modern payment systems
+- 🌐 Creating full-stack projects using Java Spring Boot, React TypeScript, and cloud technologies
+- 🎯 Seeking full-stack development opportunities in Calgary
 
 Check out my [portfolio](https://marieangelikamaglinte.vercel.app)!
 
@@ -65,18 +79,21 @@ Check out my [portfolio](https://marieangelikamaglinte.vercel.app)!
 
 ## 🌐 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marie-angelika-maglinte)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@maglinteangelika)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://marieangelikamaglinte.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maglinteangelika@gmail.com)
 
 ---
 
-<!--## 📊 GitHub Stats
+<!--
+## 📊 GitHub Stats
 
-![Marie's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelikamaglinte&show_icons=true&theme=radical)
+![Marie's GitHub stats](https://github-readme-stats.vercel.app/api?username=gazijarin&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelikamaglinte&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gazijarin&layout=compact&theme=radical)
 -->
+
 ---
 
 ⭐️ From [angelikamaglinte](https://github.com/angelikamaglinte)

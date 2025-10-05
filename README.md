@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Marie
+# Hi there! 👋 I'm Marie Angelika
 
 ## 💼 Full-Stack Software Developer | Calgary, AB
 
